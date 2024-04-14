@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GovyForDevops
+- 👋 Hi, I’m @GovyForPython
 - 👀 I’m interested in ...Programming codding
-- 🌱 I’m currently learning ...DevOps $ Python
+- 🌱 I’m currently learning ...Python & DevOps
 - 💞️ I’m looking to collaborate on ...Both above
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
